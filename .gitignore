@@ -1,0 +1,9 @@
+*.class
+*.jar
+*.docx
+*.crypt
+*.cred
+*.pdf
+Tar/
+.idea/
+*.zip
